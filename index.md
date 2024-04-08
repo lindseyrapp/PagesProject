@@ -2,7 +2,7 @@
 
 ## Introduction <a name="introduction"></a>
 
-Hello! I'm Lindsey, a Computer Science student with a love for creative problem solving. I currently work as a student researcher for Lawrence Berkeley National Lab where I design metabolic pathway map SVG's & embed code into the images to allow for multiomics date to be projected upon them, as well as contribute to a native JS app to help researchers filter and identify the pathway maps that are most relevant to their data. I am also a published singer/songwriter (new song linked below!). 
+Hello! I'm Lindsey, a Computer Science student with a love for creative problem-solving. I currently work as a student researcher for Lawrence Berkeley National Lab where I design metabolic pathway map SVG's & embed code into the images to allow for multiomics data to be projected upon them, as well as contribute to a native JS app to help researchers filter and identify the pathway maps that are most relevant to their data. I am also a published singer/songwriter (new song linked below!). 
 
 _Professional headshot:_
 
