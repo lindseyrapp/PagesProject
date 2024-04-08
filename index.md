@@ -6,7 +6,7 @@ Hello! I'm Lindsey, a Computer Science student with a love for creative problem 
 
 _Professional headshot:_
 
-![Profile Picture](screenshots/ProfHeadshot.jpg)
+![Profile Picture](picsForPage/ProfHeadshot.jpg)
 
 > “Life is a series of building, testing, changing and iterating.” – Lauren Mosenthal
 
